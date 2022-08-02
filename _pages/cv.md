@@ -6,54 +6,88 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
+
+
+
+* PDF file can be download as : urlurlurl
 
 Education
 ======
-* B.S. in Physics, SKKU, 2016
-* Ph.D in Physics, KAIST, 2023 (expected)
-#* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* B.S. in Physics, SKKU, 2013.03-2016.08
+* Ph.D in Physics, KAIST, 2017.02-2023.02 (expected)
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* _Do Hoon Kiem_, Jae-Hoon Sim, Hongkee Yoon, and Myung Joon Han, “First-principles-based calculation of branching ratio for 5d, 4d, and 3d transition metal systems”, Journal of Physics: Condensed Matter 32, 245501 (2020)
+* Dongyeun Won, _Do Hoon Kiem_†, Hwanbeom Cho, Dohyun Kim, Younghak Kim, Min Yong Jeong, Changwon Seo, Jeongyong Kim, Je‐Geun Park, Myung Joon Han, Heejun Yang, Suyeon Cho, “Polymorphic Spin, Charge, and Lattice Waves in Vanadium Ditelluride”, Advanced Materials 32, 1906578 (2020)
+* Muhammad Nauman†, _Do Hoon Kiem_†, Sungmin Lee, Suhan Son, Je-Geun Park, Woun Kang, Myung Joon Han and Younjung Jo, “Complete mapping of magnetic anisotropy for prototype Ising van der Waals FePS3”, 2D Materials 8, 035011 (2021)
+* Seung Woo Jang†, _Do Hoon Kiem_†, Juhyeok Lee†, Yoon-Gu Kang, Hongkee Yoon, Myung Joon Han, “Hund’s Physics and the magnetic ground state of CrOX (X = Cl, Br)”, Physical Review Materials 5, 034409 (2021)
+* _Do Hoon Kiem_, Min Yong Jeong, Hongkee Yoon, Myung Joon Han, “Strain engineering and hidden role of magnetism in monolayer VTe2” 
+
+Personal projects
+=======
+* Venture Research Program for Graduate and PhD Students (2019)
+* Venture Research Program for Graduate and PhD Students (2021)
+
+News in press
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+* The research about single crystal VTe2 (see publication) is noticed in some newspapers 
+
+Awards
+=======
+*	Outstanding Presentation Award (Poster) 
+    2018 Korea Physics Society Spring Meeting
+*	Outstanding Presentation Award (Poster)
+    2019 The 11th Brain Korea (BK) 21+ Young Physicists Workshop
+*	Pre-doctoral fellow 
+    Department of Physics, KAIST (2021)
+*	Outstanding Presentation Award (Oral) 
+    2021 Korea Physics Society Fall Meeting
+*	Poster Awards (Poster) 
+    2022 Korea Physics Society Spring Meeting
+*	Poster Awards (Poster) 
+    2022 Korea Magnetic Society Summer Meeting
+
+
+Academic Presentations
+=======
+*	Poster, Korean Physical Society 2018 Spring meeting (Korea, April 2018)
+*	Poster, The 14th KIAS Electronic Structure Calculation Workshop (Korea, Jun 2018)	
+*	Poster, The 2nd Workshop on Functional Materials Science (Korea, 2018)
+*	Oral, Korean Physical Society 2018 Fall Meeting (Korea, 2018)
+*	Poster, The 21st Asian Workshop on First-Principles Electronic Structure Calculations (Korea, 2018)
+*	Poster, The 10th APCTP Workshop on Multiferroics (Korea, 2018)
+*	Poster, Korean Ceramic Society 2018 Fall Conference (Korea, 2018)
+*	Poster, BK21+ Young Physicist Workshop (Korea, 2019)
+*	Poster, The 15th KIAS Electronic Structure Calculation Workshop (Korea, 2019)
+*	Poster, 2019 KPS Fall Meeting (Korea, 2019)
+*	Poster, The 6th MUJU INTERNATIONAL Winter School Series (Korea, 2020)
+*	Oral, Korean Physical Society 2021 Fall Meeting (Korea, 2021)
+*	Oral, 2022 APS March meeting (USA, 2022)
+*	Oral, Korean Physical Society 2022 Spring Meeting (Korea, 2022)
+*	Poster, Korean Magnetic Society 2022 Summer Meeting (Korea, 2022)
+*	Poster, The 18th KIAS Electronic Structure Calculation Workshop (Korea, 2022)
+
+Research Skills
+======
+### Density functional theory and related packages
+  * openMX, VASP, Wannier90, LOBSTER, DFTforge, Jx, BoltzTrap, Phonopy, etc
+### Dynamical Mean-Field theory
+  * EMDFTF, DMFTpack
+### Own code
+  * developed codes for physics research. This information will be added.
+### Pragramming languages
+  * Python, Julia, C, C++
+
+
+Work experience
+======
+
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+
+
