@@ -7,14 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-Open webpage
-======
-* Now my website has been open using the github page
-  * I am testing this website. 
 
-giving a talk
-giving a presentation
-win a prize in somesome
 
-Work experience
+
+2022
 ======
+
+**2022 Aug 03.** DH has opened this site. 
