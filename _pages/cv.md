@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-* PDF file can be download as : urlurlurl
+* PDF file can be downloaded as : urlurlurl
 
 Education
 ======
