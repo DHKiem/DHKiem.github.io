@@ -15,7 +15,7 @@ redirect_from:
 Education
 ======
 * B.S. in Physics, SKKU, 2013.03-2016.08
-* Ph.D in Physics, KAIST, 2017.02-2023.02 (expected)
+* Ph.D in Physics, KAIST, 2017.02- Now
 
 Publications
 ======
@@ -75,11 +75,14 @@ Academic Presentations
 Research Skills
 ======
 ### Density functional theory and related packages
-  * openMX, VASP, Wannier90, LOBSTER, DFTforge, Jx, BoltzTrap, Phonopy, etc
+  * openMX, VASP, Wannier90, LOBSTER, DFTforge, Jx, BoltzTrap, Phonopy, etc  
+  
 ### Dynamical Mean-Field theory
   * EMDFTF, DMFTpack
+  
 ### Own code
   * developed codes for physics research. This information will be added.
+  
 ### Pragramming languages
   * Python, Julia, C, C++
 
