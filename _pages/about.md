@@ -17,10 +17,14 @@ My researches focus on the condensed matter physics, especially magnetism, with 
 * Computational physics
 * Spin models
 
+Currently, I am PhD course in *KAIST*.
+
 [go to CV](https://dhkiem.github.io/cv)
 =====
 
+[See Publications](https://dhkiem.github.io/pubications)
+=====
 
 Code development
 ====
-* Magnon calculations with topology
+* Magnon calculations 
