@@ -27,5 +27,7 @@ Currently, I am PhD course in *KAIST*.
 
 Code development
 ====
+<!--
 I developed programmed codes for my research.
 * Magnon calculations (written in Julia)
+ -->
