@@ -58,7 +58,8 @@ Awards
 
 <!-- Academic Presentations-->
 <!--=======-->
-<!--*	Poster, Korean Physical Society 2018 Spring meeting (Korea, April 2018)
+<!--
+*	Poster, Korean Physical Society 2018 Spring meeting (Korea, April 2018)
 *	Poster, The 14th KIAS Electronic Structure Calculation Workshop (Korea, Jun 2018)	
 *	Poster, The 2nd Workshop on Functional Materials Science (Korea, 2018)
 *	Oral, Korean Physical Society 2018 Fall Meeting (Korea, 2018)
@@ -73,7 +74,7 @@ Awards
 *	Oral, 2022 APS March meeting (USA, 2022)
 *	Oral, Korean Physical Society 2022 Spring Meeting (Korea, 2022)
 *	Poster, Korean Magnetic Society 2022 Summer Meeting (Korea, 2022)
-*	Poster, The 18th KIAS Electronic Structure Calculation Workshop \(Korea, 2022)
+*	Poster, The 18th KIAS Electronic Structure Calculation Workshop (Korea, 2022)
 -->
 
 Research Skills
