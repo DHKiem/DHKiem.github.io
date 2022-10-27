@@ -8,16 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Me
+
+Research Interests
 ======
-My researches focus on the condensed matter physics, especially magnetism, with electronic structure theory and computation often based on first-principles.
-
+My researches focus on the theoretical and computational physics for condensed matters. 
 * Electronic structure calculations (DFT, DMFT ...)
-* Magnetic properties 
-* Computational physics
+* Magnetism  
+* van der Waals materials
 * Spin models
-
-Currently, I am PhD course in *KAIST*.
 
 [go to CV](https://dhkiem.github.io/cv)
 =====

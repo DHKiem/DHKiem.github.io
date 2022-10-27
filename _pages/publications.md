@@ -19,7 +19,7 @@ To see in [Google scholar](https://scholar.google.com/citations?user=u2s6GQwAAAA
 
 ### 2020 - 2022
 
-* "제일원리에 기반한 자기 힘 이론 연구 (Magnetic Force Response Theory)"  
+* "Magnetic Force Response Theory"  
      ___Do Hoon Kiem___, Hyeong Jun Lee, Myung Joon Han [한국자기학회지, Volume 32, Number 4, 31 Aug. 2022, Pages 172-179](https://www.magnetics.or.kr/submission/journal/pages/archives.vm?isrc=_view.jsp&vol=32&no=4&year=2022&month=08&page=172) (2022) (A short review given in Korean)
 
 

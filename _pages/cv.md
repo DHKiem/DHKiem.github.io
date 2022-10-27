@@ -9,8 +9,9 @@ redirect_from:
 {% include base_path %}
 
 
+<!--
+* PDF file can be downloaded as : will be added -->
 
-* PDF file can be downloaded as : will be added
 
 Education
 ======
@@ -25,6 +26,12 @@ Personal projects
 =======
 * Venture Research Program for Graduate and PhD Students (2019)
 * Venture Research Program for Graduate and PhD Students (2021)
+  * Machine Learning for materials in magnetic fields
+
+Fellowship
+======
+*	Pre-doctoral fellow, 
+    Department of Physics, KAIST (2021)
 
 News in press
 ======
@@ -32,19 +39,17 @@ News in press
 
 Awards
 =======
-*	Outstanding Presentation Award  
+*	Outstanding Presentation Award  ;
     2018 Korea Physics Society Spring Meeting
-*	Outstanding Presentation Award  
+*	Outstanding Presentation Award  ;
     2019 The 11th Brain Korea (BK) 21+ Young Physicists Workshop
-*	Pre-doctoral fellow 
-    Department of Physics, KAIST (2021)
-*	Outstanding Presentation Award  
+*	Outstanding Presentation Award  ;
     2021 Korea Physics Society Fall Meeting
-*	Poster Awards  
+*	Outstanding Presentation Award  ;
     2022 Korea Physics Society Spring Meeting
-*	Poster Awards  
+*	Outstanding Presentation Award  ;
     2022 Korea Magnetic Society Summer Meeting
-*	Outstanding Presentation Awards 
+*	Outstanding Presentation Awards  ;
     2022 KIAS Electronic Structure Calculation Workshop 
 
 <!-- Academic Presentations-->
