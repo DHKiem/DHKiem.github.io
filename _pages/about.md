@@ -23,9 +23,10 @@ My researches focus on the theoretical and computational physics for condensed m
 [See Publications](https://dhkiem.github.io/publications)
 =====
 
+<!--
 Code development
 ====
-<!--
+
 I developed programmed codes for my research.
 * Magnon calculations (written in Julia)
  -->

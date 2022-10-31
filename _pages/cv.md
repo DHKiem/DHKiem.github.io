@@ -12,6 +12,9 @@ redirect_from:
 <!--
 * PDF file can be downloaded as : will be added -->
 
+Do Hoon Kiem 
+======
+* 'DoHoon Kim' is also used. 
 
 Education
 ======
@@ -81,8 +84,9 @@ Research Skills
 ### Dynamical Mean-Field theory
   * EMDFTF, DMFTpack
   
-### Own code
-  * developed codes for physics research. This information will be added.
+### Code development 
+  * Participation for NC-Jx 
+  * Magnon package
   
 ### Pragramming languages
   * Python, Julia, C, C++
