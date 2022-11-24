@@ -54,6 +54,8 @@ Awards
     2022 Korea Magnetic Society Summer Meeting
 *	Outstanding Presentation Awards  ;
     2022 KIAS Electronic Structure Calculation Workshop 
+*	Outstanding Presentation Award  ;
+    2022 Korea Physics Society Fall Meeting
 
 <!-- Academic Presentations-->
 <!--=======-->
