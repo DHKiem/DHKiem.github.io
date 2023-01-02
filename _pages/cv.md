@@ -19,7 +19,7 @@ Do Hoon Kiem
 Education
 ======
 * B.S. in Physics, SKKU, 2013.03-2016.08
-* Ph.D in Physics, KAIST, 2017.02- Now
+* Ph.D in Physics, KAIST, 2017.02-2023.02
 
 Publications
 ======
@@ -52,7 +52,7 @@ Awards
     2022 Korea Physics Society Spring Meeting
 *	Outstanding Presentation Award  ;
     2022 Korea Magnetic Society Summer Meeting
-*	Outstanding Presentation Awards  ;
+*	Outstanding Presentation Award  ;
     2022 KIAS Electronic Structure Calculation Workshop 
 *	Outstanding Presentation Award  ;
     2022 Korea Physics Society Fall Meeting

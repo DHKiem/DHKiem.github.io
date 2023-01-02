@@ -13,4 +13,6 @@ author_profile: true
 2022
 ======
 
+**2022 Dec .** DH has the doctoral degree defense.
+
 **2022 Aug 03.** DH has opened this site. 
