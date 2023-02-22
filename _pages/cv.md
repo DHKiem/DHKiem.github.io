@@ -14,7 +14,7 @@ redirect_from:
 
 Do Hoon Kiem 
 ======
-* 'DoHoon Kim' is also used. 
+* 'Dohoon Kim' is also used. 
 
 Education
 ======

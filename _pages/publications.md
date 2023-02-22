@@ -29,7 +29,7 @@ To see in [Google scholar](https://scholar.google.com/citations?user=u2s6GQwAAAA
 
 * "Theory of Moire Magnets and Topological Magnons: Applications to Twisted Bilayer CrI3"   
     Kyoung-Min Kim, ___Do Hoon Kiem___, Grigory Bednik, Myung Joon Han, Moon Jip Park  
-    [arXiv:2206.05264](https://arxiv.org/abs/2206.05264) (submitted)
+    [arXiv:2206.05264](https://arxiv.org/abs/2206.05264) (under review)
     
 * “Hund’s Physics and the magnetic ground state of CrOX (X = Cl, Br)”   
     Seung Woo Jang†, ___Do Hoon Kiem___†, Juhyeok Lee†, Yoon-Gu Kang, Hongkee Yoon, Myung Joon Han
@@ -43,7 +43,6 @@ To see in [Google scholar](https://scholar.google.com/citations?user=u2s6GQwAAAA
     Dongyeun Won†, ___Do Hoon Kiem___†, Hwanbeom Cho, Dohyun Kim, Younghak Kim, Min Yong Jeong, Changwon Seo, Jeongyong Kim, Je‐Geun Park, Myung Joon Han, Heejun Yang, Suyeon Cho
     [Advanced Materials 32, 1906578](https://doi.org/10.1002/adma.201906578) (2020)
 
-* "First-principles-based calculation of branching ratio for 5d, 4d, and 3d transition metal systems"   
+*  "First-principles-based calculation of branching ratio for 5d, 4d, and 3d transition metal systems"   
     ___Do Hoon Kiem___, Jae-Hoon Sim, Hongkee Yoon, and Myung Joon Han  
     [Journal of Physics: Condensed Matter 32, 245501](https://doi.org/10.1088/1361-648X/ab786f) (2020)
-
