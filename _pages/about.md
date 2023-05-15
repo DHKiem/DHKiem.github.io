@@ -8,14 +8,18 @@ redirect_from:
   - /about.html
 ---
 
+Department of Physics, Korea Advanced Institute of Science and Technology (KAIST)
+
+Postdoc (2023. Mar - Present)
+
 
 Research Interests
 ======
 My researches focus on the theoretical and computational physics for condensed matters. 
 * Electronic structure calculations (DFT, DMFT ...)
-* Magnetism  
-* van der Waals materials
-* Spin models
+* Development of first-principles computation methods
+* Magnetic systems, van der Waals materials, Quantum materials
+
 
 [go to CV](https://dhkiem.github.io/cv)
 =====

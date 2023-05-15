@@ -11,7 +11,9 @@ Last update:2023.02.22.
 
 2023
 ======
-**2023 Mar 08.** DH give a presentation in APS march meeting.
+**2023 May 25.** DH gives a invited talk in KMS summer meeting.
+
+**2023 Mar 08.** DH gives a presentation in APS march meeting.
 
 **2023 Feb 17.** DH graduated from a Ph.D. program
 
