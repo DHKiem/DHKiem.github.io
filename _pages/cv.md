@@ -84,7 +84,7 @@ Research Skills
   * openMX, VASP, Wannier90, LOBSTER, DFTforge, Jx, BoltzTrap, Phonopy, etc  
   
 ### Dynamical Mean-Field theory
-  * EMDFTF, DMFTpack
+  * EDMFTF, DMFTpack
   
 ### Code development 
   * Participation for NC-Jx 
