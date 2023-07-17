@@ -56,6 +56,8 @@ Awards
     2022 KIAS Electronic Structure Calculation Workshop 
 *	Outstanding Presentation Award  ;
     2022 Korea Physics Society Fall Meeting
+*	Outstanding Presentation Award  ;
+    2023 KIAS Electronic Structure Calculation Workshop     
 
 <!-- Academic Presentations-->
 <!--=======-->
