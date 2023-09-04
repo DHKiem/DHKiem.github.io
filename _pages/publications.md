@@ -20,6 +20,10 @@ To see in [Google scholar](https://scholar.google.com/citations?user=u2s6GQwAAAA
 (†: equal contributions)
 ### 2020 - Now
 
+9\. "Polymorphic Kondo effects driven by spin lattice coupling in VTe2"  
+    Dongyeun Won†, ___Do Hoon Kiem___†, Woohyun Cho, Sang-Hyeok Yang, Young-Hoon Kim, Young-Min Kim, Suyeon Cho, Myung Joon Han, Heejun Yang 
+    (submitted)
+
 8\. "Spin-selective memtransistors with magnetized graphene"  
     Juyeong Jeong†, ___Do Hoon Kiem___†, Dan Guo, Ruihuan Duan, Kenji Watanabe, Takashi Taniguchi, Zheng Liu, Myung Joon Han, Shoujun Zheng, Heejun Yang (submitted)
 
