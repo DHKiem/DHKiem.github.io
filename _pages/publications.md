@@ -28,15 +28,17 @@ To see in [Google scholar](https://scholar.google.com/citations?user=u2s6GQwAAAA
     Juyeong Jeong†, ___Do Hoon Kiem___†, Dan Guo, Ruihuan Duan, Kenji Watanabe, Takashi Taniguchi, Zheng Liu, Myung Joon Han, Shoujun Zheng, Heejun Yang (submitted)
 
 7\. "Ab Initio Spin Hamiltonian and Topological Noncentrosymmetric Magnetism in Twisted Bilayer CrI3"  
-    Kyoung-Min Kim, ___Do Hoon Kiem___, Grigory Bednik, Myung Joon Han, Moon Jip Park [Nano Letters 23, 13, 6088–6094](https://doi.org/10.1021/acs.nanolett.3c01529) (2023)
+    Kyoung-Min Kim, ___Do Hoon Kiem___, Grigory Bednik, Myung Joon Han, Moon Jip Park 
+    [Nano Letters 23, 13, 6088–6094](https://doi.org/10.1021/acs.nanolett.3c01529) (2023)
     [arXiv:2206.05264](https://arxiv.org/abs/2206.05264)
 
 6\. "Magnetic Force Response Theory"  
-     ___Do Hoon Kiem___, Hyeong Jun Lee, Myung Joon Han [한국자기학회지, Volume 32, Number 4, 31 Aug. 2022, Pages 172-179](https://www.magnetics.or.kr/submission/journal/pages/archives.vm?isrc=_view.jsp&vol=32&no=4&year=2022&month=08&page=172) (2022) (invited review in Korean)
+     ___Do Hoon Kiem___, Hyeong Jun Lee, Myung Joon Han 
+     [Journal of the Korean Magnetics Society, Volume 32, Number 4, 31 Aug. 2022, Pages 172-179](https://www.magnetics.or.kr/submission/journal/pages/archives.vm?isrc=_view.jsp&vol=32&no=4&year=2022&month=08&page=172) (2022) (invited review in Korean)
 
 5\. "Strain engineering and hidden role of magnetism in monolayer VTe2”   
     ___Do Hoon Kiem___, Min Yong Jeong, Hongkee Yoon, Myung Joon Han
-    [nanoscale (communications) 14, 10009-10015](https://pubs.rsc.org/en/content/articlelanding/2022/nr/d2nr03026h) (2022)
+    [Nanoscale (communications) 14, 10009-10015](https://pubs.rsc.org/en/content/articlelanding/2022/nr/d2nr03026h) (2022)
     
 4\. “Hund’s Physics and the magnetic ground state of CrOX (X = Cl, Br)”   
     Seung Woo Jang†, ___Do Hoon Kiem___†, Juhyeok Lee†, Yoon-Gu Kang, Hongkee Yoon, Myung Joon Han

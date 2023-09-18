@@ -83,14 +83,17 @@ Awards
 Research Skills
 ======
 ### Density functional theory and related packages
-  * openMX, VASP, Wannier90, LOBSTER, DFTforge, Jx, BoltzTrap, Phonopy, etc  
+  * ___Density functional theory___: openMX, VASP, wien2K
+  * Wannier90, LOBSTER, DFTforge.jl, Jx, BoltzTrap, Phonopy, etc  
   
 ### Dynamical Mean-Field theory
-  * EDMFTF, DMFTpack
+  * Rutgers eDMFT, DMFTpack
   
 ### Code development 
-  * Participation for NC-Jx 
+  * NC-Jx & [DFTforge.jl](https://github.com/KAIST-ELST/DFTforge.jl)
   * Magnon package
+  * Torque magnetometer simulator
+  * optical conductivity
   
 ### Pragramming languages
   * Python, Julia, C, C++
