@@ -14,7 +14,7 @@ redirect_from:
 
 Do Hoon Kiem 
 ======
-* 'Dohoon Kim' is also used. 
+
 
 Education
 ======
@@ -36,9 +36,10 @@ Fellowship
 *	Pre-doctoral fellow, 
     Department of Physics, KAIST (2021)
 
-News in press
+<!-- News in press
 ======
 * The research about single crystal VTe2 (see publication) is noticed in some newspapers 
+--!>
 
 Awards
 =======
@@ -90,13 +91,13 @@ Research Skills
   * Rutgers eDMFT, DMFTpack
   
 ### Code development 
-  * NC-Jx & [DFTforge.jl](https://github.com/KAIST-ELST/DFTforge.jl)
-  * Magnon package
+  * Magnetic force linear response theory (MFT): [Jx.jl](https://kaist-elst.github.io/Jx.jl/) & [DFTforge.jl](https://github.com/KAIST-ELST/DFTforge.jl) 
+  * Magnon package: [SpinMax.jl](https://dhkiem.github.io/SpinMaX.jl/) 
   * Torque magnetometer simulator
-  * optical conductivity
+  * optical conductivity in DMFTpack
   
 ### Pragramming languages
-  * Python, Julia, C, C++
+  * Python, Julia, C, C++, Labview
 
 <!--
 Work experience
