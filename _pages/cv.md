@@ -55,11 +55,13 @@ Personal projects
 * Venture Research Program for Graduate and PhD Students (2021)
   * Machine Learning for materials in magnetic fields
 
-<!-- News in press
+<!-- 
+News in press
 ======
 * The research about single crystal VTe2 (see publication) is noticed in some newspapers 
---!>
+-->
 
+<!--
 Awards
 =======
 *	Outstanding Presentation Award  ;
@@ -78,9 +80,10 @@ Awards
     2022 Korea Physics Society Fall Meeting
 *	Outstanding Presentation Award  ;
     2023 KIAS Electronic Structure Calculation Workshop     
+-->
 
-<!-- Academic Presentations-->
-<!--=======-->
+<!-- Academic Presentations--!>
+<!--=======--!>
 <!--
 *	Poster, Korean Physical Society 2018 Spring meeting (Korea, April 2018)
 *	Poster, The 14th KIAS Electronic Structure Calculation Workshop (Korea, Jun 2018)	
@@ -98,7 +101,7 @@ Awards
 *	Oral, Korean Physical Society 2022 Spring Meeting (Korea, 2022)
 *	Poster, Korean Magnetic Society 2022 Summer Meeting (Korea, 2022)
 *	Poster, The 18th KIAS Electronic Structure Calculation Workshop (Korea, 2022)
--->
+--!>
 
 
 <!--
@@ -110,5 +113,5 @@ Teaching
 
 Service and leadership
 ======
--->
+--!>
 
