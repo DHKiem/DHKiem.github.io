@@ -25,16 +25,35 @@ Publications
 ======
 See [Publications](https://dhkiem.github.io/publications)
 
-Personal projects
-=======
-* Venture Research Program for Graduate and PhD Students (2019)
-* Venture Research Program for Graduate and PhD Students (2021)
-  * Machine Learning for materials in magnetic fields
+
+Research Skills 
+======
+### Density functional theory and related packages
+  * ___Density functional theory___: openMX, VASP, wien2K
+  * Wannier90, LOBSTER, DFTforge.jl, Jx, BoltzTrap, Phonopy, etc  
+  
+### Dynamical Mean-Field theory
+  * Rutgers eDMFT, DMFTpack
+  
+### Code development 
+  * Magnetic force linear response theory (MFT): [Jx.jl](https://kaist-elst.github.io/Jx.jl/) & [DFTforge.jl](https://github.com/KAIST-ELST/DFTforge.jl) 
+  * Magnon package: [SpinMax.jl](https://dhkiem.github.io/SpinMaX.jl/) 
+  * Torque magnetometer simulator
+  * optical conductivity in DMFTpack
+  
+### Pragramming languages
+  * Python, Julia, C, C++, Labview
 
 Fellowship
 ======
 *	Pre-doctoral fellow, 
     Department of Physics, KAIST (2021)
+
+Personal projects
+=======
+* Venture Research Program for Graduate and PhD Students (2019)
+* Venture Research Program for Graduate and PhD Students (2021)
+  * Machine Learning for materials in magnetic fields
 
 <!-- News in press
 ======
@@ -81,23 +100,6 @@ Awards
 *	Poster, The 18th KIAS Electronic Structure Calculation Workshop (Korea, 2022)
 -->
 
-Research Skills
-======
-### Density functional theory and related packages
-  * ___Density functional theory___: openMX, VASP, wien2K
-  * Wannier90, LOBSTER, DFTforge.jl, Jx, BoltzTrap, Phonopy, etc  
-  
-### Dynamical Mean-Field theory
-  * Rutgers eDMFT, DMFTpack
-  
-### Code development 
-  * Magnetic force linear response theory (MFT): [Jx.jl](https://kaist-elst.github.io/Jx.jl/) & [DFTforge.jl](https://github.com/KAIST-ELST/DFTforge.jl) 
-  * Magnon package: [SpinMax.jl](https://dhkiem.github.io/SpinMaX.jl/) 
-  * Torque magnetometer simulator
-  * optical conductivity in DMFTpack
-  
-### Pragramming languages
-  * Python, Julia, C, C++, Labview
 
 <!--
 Work experience
