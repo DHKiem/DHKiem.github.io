@@ -13,7 +13,6 @@ Department of Physics, Korea Advanced Institute of Science and Technology (KAIST
 
 
 
-
 Research Interests
 ======
 My researches focus on the theoretical and computational physics for condensed matters. 
@@ -23,9 +22,11 @@ My researches focus on the theoretical and computational physics for condensed m
 
 Code development 
 ======
-  * Magnetic force linear response theory (MFT): [Jx.jl](https://kaist-elst.github.io/Jx.jl/) & [DFTforge.jl](https://github.com/KAIST-ELST/DFTforge.jl) 
+  * Magnetic force linear response theory (MFT): 
+      *  [Jx.jl](https://kaist-elst.github.io/Jx.jl/)
+      *  [DFTforge.jl](https://github.com/KAIST-ELST/DFTforge.jl) 
   * Magnon package: [SpinMax.jl](https://dhkiem.github.io/SpinMaX.jl/) 
-  * Torque magnetometer simulator
+  * Torque magnetometer calculation
   * optical conductivity in DMFTpack
 
 
