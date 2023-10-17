@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Ph.D in Physcs.
+Ph.D in Physics.
 
 Department of Physics, Korea Advanced Institute of Science and Technology (KAIST)
 

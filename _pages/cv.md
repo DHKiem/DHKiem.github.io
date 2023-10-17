@@ -71,14 +71,6 @@ Personal Grants
   * Machine Learning for materials in magnetic fields
 
 
-<!--
 Work experience
 ======
-
-Teaching
-======
-
-Service and leadership
-======
---!>
-
+* Post-doctoral researcher, KAIST, 2023.03-current
