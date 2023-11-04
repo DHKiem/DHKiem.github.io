@@ -20,8 +20,7 @@ Education
 ======
 * Ph.D in Physics, KAIST, 2017.02-2023.02
 * B.S. in Physics, SKKU, 2013.03-2016.08 (Early graduation with highest honor)
-* Gyeongnam Science High School, 2011.03-2012.02 (Early graduation)
-
+* Gyeongnam Science High School, 2011.03-2013.02 (Early graduation)
 
 
 Publications
