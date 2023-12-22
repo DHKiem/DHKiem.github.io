@@ -18,7 +18,7 @@ Research Interests
 My researches focus on the theoretical and computational physics for condensed matters. 
 * Electronic structure calculations (DFT, DFT+DMFT)
 * Development of first-principles computation methods
-* Quantum materials, Magnetic systems, van der Waals materials
+* Quantum materials, Magnetic systems, Two-dimensional van der Waals materials
 
 Code development 
 ======
@@ -36,10 +36,3 @@ Code development
 [See Publications](https://dhkiem.github.io/publications)
 =====
 
-<!--
-Code development
-====
-
-I developed programmed codes for my research.
-* Magnon calculations (written in Julia)
- -->

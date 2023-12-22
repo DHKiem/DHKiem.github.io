@@ -20,6 +20,10 @@ To see in [Google scholar](https://scholar.google.com/citations?user=u2s6GQwAAAA
 (†: equal contributions)
 ### 2020 - Now
 
+10\. "Singular Hall response from a correlated ferromagnetic flat nodal-line semimetal"
+    Woohyun Cho, Yoon-Gu Kang, Jaehun Cha, Dong Hyun David Lee, ___Do Hoon Kiem___, Jaewhan Oh, Jongho Park, Changyoung Kim, Yongsoo Yang, Yeong Kwan Kim, Myung Joon Han, Heejun Yang
+    [arXiv:2312.12889](https://arxiv.org/abs/2312.12889)
+
 9\. "Polymorphic Kondo effects driven by spin lattice coupling in VTe2"  
     Dongyeun Won†, ___Do Hoon Kiem___†, Woohyun Cho, Sang-Hyeok Yang, Young-Hoon Kim, Young-Min Kim, Suyeon Cho, Myung Joon Han, Heejun Yang 
     (submitted)
