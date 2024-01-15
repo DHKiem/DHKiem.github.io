@@ -29,7 +29,7 @@ To see in [Google scholar](https://scholar.google.com/citations?user=u2s6GQwAAAA
     (submitted)
 
 8\. "Spin-selective memtransistors with magnetized graphene"  
-    Juyeong Jeong†, ___Do Hoon Kiem___†, Dan Guo, Ruihuan Duan, Kenji Watanabe, Takashi Taniguchi, Zheng Liu, Myung Joon Han, Shoujun Zheng, Heejun Yang (submitted)
+    Juyeong Jeong†, ___Do Hoon Kiem___†, Dan Guo, Ruihuan Duan, Kenji Watanabe, Takashi Taniguchi, Zheng Liu, Myung Joon Han, Shoujun Zheng, Heejun Yang (Accepted in Advanced Materials)
 
 7\. "Ab Initio Spin Hamiltonian and Topological Noncentrosymmetric Magnetism in Twisted Bilayer CrI3"  
     Kyoung-Min Kim, ___Do Hoon Kiem___, Grigory Bednik, Myung Joon Han, Moon Jip Park 
