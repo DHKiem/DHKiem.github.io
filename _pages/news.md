@@ -9,8 +9,13 @@ author_profile: true
 
 Last update:2023.02.22.
 
+2024
+=====
+**2023 Feb 21.** DH gives a invited talk in QMS2024+BrainLink.
+
 2023
 ======
+
 **2023 May 25.** DH gives a invited talk in KMS summer meeting.
 
 **2023 Mar 08.** DH gives a presentation in APS march meeting.
@@ -21,6 +26,6 @@ Last update:2023.02.22.
 2022
 ======
 
-**2022 Oct 21.** DH give a presentation in KPS Fall meeting.
+**2022 Oct 21.** DH gives a presentation in KPS Fall meeting.
 
 **2022 Aug 03.** DH has opened this site. 

@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Ph.D in Physics.
+Researcher in computational condensed matter physics.
 
 Department of Physics, Korea Advanced Institute of Science and Technology (KAIST)
 
