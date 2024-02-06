@@ -26,7 +26,7 @@ To see in [Google scholar](https://scholar.google.com/citations?user=u2s6GQwAAAA
 
 9\. "Polymorphic Kondo effects driven by spin lattice coupling in VTe2"  
     Dongyeun Won†, ___Do Hoon Kiem___†, Woohyun Cho, Sang-Hyeok Yang, Young-Hoon Kim, Young-Min Kim, Suyeon Cho, Myung Joon Han, Heejun Yang  
-    Advanced Functional Materials (Accepted)
+    [Advanced Functional Materials, 2313180 (in press)](https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.202313180) (2024)
 
 8\. "Spin-selective memtransistors with magnetized graphene"  
     Juyeong Jeong†, ___Do Hoon Kiem___†, Dan Guo, Ruihuan Duan, Kenji Watanabe, Takashi Taniguchi, Zheng Liu, Myung Joon Han, Shoujun Zheng, Heejun Yang  
