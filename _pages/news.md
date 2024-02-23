@@ -11,7 +11,7 @@ Last update:2023.02.22.
 
 2024
 =====
-**2023 Feb 21.** DH gives a invited talk in QMS2024+BrainLink.
+**2023 Feb 21.** DH gives a invited talk in Young Scientist Session at QMS2024+BrainLink.
 
 2023
 ======
@@ -28,4 +28,4 @@ Last update:2023.02.22.
 
 **2022 Oct 21.** DH gives a presentation in KPS Fall meeting.
 
-**2022 Aug 03.** DH has opened this site. 
+
