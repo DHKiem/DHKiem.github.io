@@ -21,21 +21,21 @@ To see in [Google scholar](https://scholar.google.com/citations?user=u2s6GQwAAAA
 ### 2020 - Now
 
 
-11\. "Pseudo tunnel magnetoresistance behaviour in largely twisted thin Fe3GeTe2"
-    Reiji Obata, Haiming Sun, Chihiro Tomatsu, Mioko Kosugi, T. Kikkawa, Kenji Watanabe, Takashi Taniguchi, Kazu Suenaga, ___Do Hoon Kiem___, Myung Joon Han, Eiji Saitoh, Shigeo Maruyama, Kazuhiko Hirakawa, Junji Haruyama 
+11\. "Pseudo tunnel magnetoresistance behaviour in largely twisted thin Fe3GeTe2"  
+    Reiji Obata, Haiming Sun, Chihiro Tomatsu, Mioko Kosugi, T. Kikkawa, Kenji Watanabe, Takashi Taniguchi, Kazu Suenaga, ___Do Hoon Kiem___, Myung Joon Han, Eiji Saitoh, Shigeo Maruyama, Kazuhiko Hirakawa, Junji Haruyama  
     (submitted)
 
 10\. "Singular Hall response from a correlated ferromagnetic flat nodal-line semimetal"  
     Woohyun Cho, Yoon-Gu Kang, Jaehun Cha, Dong Hyun David Lee, ___Do Hoon Kiem___, Jaewhan Oh, Jongho Park, Changyoung Kim, Yongsoo Yang, Yeong Kwan Kim, Myung Joon Han, Heejun Yang  
-    (submitted) [arXiv:2312.12889](https://arxiv.org/abs/2312.12889)
+    [Advanced Materials, 2402040 (in press)](https://doi.org/10.1002/adma.202402040) (2024) [arXiv:2312.12889](https://arxiv.org/abs/2312.12889)
 
 9\. "Polymorphic Kondo effects driven by spin lattice coupling in VTe2"  
     Dongyeun Won†, ___Do Hoon Kiem___†, Woohyun Cho, Sang-Hyeok Yang, Young-Hoon Kim, Young-Min Kim, Suyeon Cho, Myung Joon Han, Heejun Yang  
-    [Advanced Functional Materials, 2313180 (in press)](https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.202313180) (2024)
+    [Advanced Functional Materials 34, 2313180](https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.202313180) (2024)
 
 8\. "Spin-selective memtransistors with magnetized graphene"  
     Juyeong Jeong†, ___Do Hoon Kiem___†, Dan Guo, Ruihuan Duan, Kenji Watanabe, Takashi Taniguchi, Zheng Liu, Myung Joon Han, Shoujun Zheng, Heejun Yang  
-    [Advanced Materials, 2310291 (in press)](https://doi.org/10.1002/adma.202310291) (2024) 
+    [Advanced Materials 36, 2310291](https://doi.org/10.1002/adma.202310291) (2024) 
 
 7\. "Ab Initio Spin Hamiltonian and Topological Noncentrosymmetric Magnetism in Twisted Bilayer CrI3"  
     Kyoung-Min Kim, ___Do Hoon Kiem___, Grigory Bednik, Myung Joon Han, Moon Jip Park  
