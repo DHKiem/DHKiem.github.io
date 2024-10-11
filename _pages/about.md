@@ -19,6 +19,7 @@ Research Interests
 My researches focus on the theoretical and computational physics for condensed matters. 
 * Electronic structure calculations (DFT, DFT+DMFT)
 * Development of first-principles computation methods
+* Hamiltonians for magnetic systems and quasi-particles
 * Quantum materials, Magnetic systems, Two-dimensional van der Waals materials
 
 Code development 

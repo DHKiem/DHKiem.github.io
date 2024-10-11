@@ -7,10 +7,18 @@ author_profile: true
 
 {% include base_path %}
 
-Last update:2023.02.22.
+Last update:2024.10.11.
+
+2025
+====
+**2025 Jan** Starting at ORNL
 
 2024
 =====
+
+**2024 Oct** KPS Fall meeting talk
+
+**2024 May** KMS summer meeting talk
 
 **2024 Apr 25.** I give a presentation in KPS spring meeting.
 
