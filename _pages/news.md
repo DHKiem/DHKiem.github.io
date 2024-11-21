@@ -11,10 +11,11 @@ Last update:2024.10.11.
 
 2025
 ====
-**2025 Jan** Starting at ORNL
+
 
 2024
 =====
+**2024 Nov** KMS Winter meeting talk
 
 **2024 Oct** KPS Fall meeting talk
 
