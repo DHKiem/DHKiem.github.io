@@ -20,6 +20,9 @@ To see in [Google scholar](https://scholar.google.com/citations?user=u2s6GQwAAAA
 (†: equal contributions)
 ### 2020 - Now
 
+13\. "Maasive Dirac magnons in the three-dimensional honeycomb magnetic oxide FeTiO3"  
+    Jae-Ho Chung, Kwangwoo Shin, Tetsuya R. Yokoo, Daichi Ueta, Masaki Imai, Heung-Sik Kim, ___Do Hoon Kiem___, Myung Joon Han, Shin-itch Shamoto  
+    (submitted)
 
 12\. "Pseudo tunnel magnetoresistance behaviour in largely twisted thin Fe3GeTe2"  
     Reiji Obata, Haiming Sun, Chihiro Tomatsu, Mioko Kosugi, T. Kikkawa, Kenji Watanabe, Takashi Taniguchi, Kazu Suenaga, ___Do Hoon Kiem___, Myung Joon Han, Eiji Saitoh, Shigeo Maruyama, Kazuhiko Hirakawa, Junji Haruyama  
