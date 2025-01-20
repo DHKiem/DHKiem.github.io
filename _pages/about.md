@@ -7,12 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Researcher in computational condensed matter physics.
-
-Department of Physics, Korea Advanced Institute of Science and Technology (KAIST)
+Postdoctoral Research Associate, Oak Ridge National Laboratory (ORNL)
 
 Contact: kiem.dohoon[at]gmail.com
-
 
 Research Interests
 ======
