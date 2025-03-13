@@ -14,6 +14,7 @@ redirect_from:
 
 Do Hoon Kiem 
 ======
+DOHOON KIM
 
 Professional experience
 ======

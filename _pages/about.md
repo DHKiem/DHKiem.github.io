@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## Do Hoon Kiem 
-(DOHOON KIM)  
+
 Postdoctoral Research Associate, Oak Ridge National Laboratory [(ORNL)](https://www.ornl.gov/staff-profile/dohoon-kim)
 
 Contact: kiem.dohoon[at]gmail.com
