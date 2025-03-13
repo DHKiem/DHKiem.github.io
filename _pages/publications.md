@@ -20,21 +20,21 @@ To see in [Google scholar](https://scholar.google.com/citations?user=u2s6GQwAAAA
 (†: equal contributions)
 ### 2020 - Now
 
-13\. "Maasive Dirac magnons in the three-dimensional honeycomb magnetic oxide FeTiO3"  
-    Jae-Ho Chung, Kwangwoo Shin, Tetsuya R. Yokoo, Daichi Ueta, Masaki Imai, Heung-Sik Kim, ___Do Hoon Kiem___, Myung Joon Han, Shin-itch Shamoto  
-    (submitted)
-
-12\. "Pseudo tunnel magnetoresistance behaviour in largely twisted thin Fe3GeTe2"  
+13\. "Pseudo tunnel magnetoresistance behaviour in largely twisted thin Fe3GeTe2"  
     Reiji Obata, Haiming Sun, Chihiro Tomatsu, Mioko Kosugi, T. Kikkawa, Kenji Watanabe, Takashi Taniguchi, Kazu Suenaga, ___Do Hoon Kiem___, Myung Joon Han, Eiji Saitoh, Shigeo Maruyama, Kazuhiko Hirakawa, Junji Haruyama  
     (submitted)
 
-11\. "Crucial role of magnetic dipole and anomalous field dependence in NiPS3"  
+12\. "Crucial role of magnetic dipole and anomalous field dependence in NiPS3"  
     ___Do Hoon Kiem___, Muhammad Nauman, Joonyoung Choi, David Graf, Junghyun Kim, Je-Geun Park, Younjung Jo, Myung Joon Han  
     (submitted)
 
+11\. "Maasive Dirac magnons in the three-dimensional honeycomb magnetic oxide FeTiO3"  
+    Jae-Ho Chung, Kwangwoo Shin, Tetsuya R. Yokoo, Daichi Ueta, Masaki Imai, Heung-Sik Kim, ___Do Hoon Kiem___, Myung Joon Han, Shin-itch Shamoto  
+    [Scientific Reports 15, 5978](https://doi.org/10.1038/s41598-025-90478-2) (2025)
+
 10\. "Singular Hall response from a correlated ferromagnetic flat nodal-line semimetal"  
     Woohyun Cho, Yoon-Gu Kang, Jaehun Cha, Dong Hyun David Lee, ___Do Hoon Kiem___, Jaewhan Oh, Jongho Park, Changyoung Kim, Yongsoo Yang, Yeong Kwan Kim, Myung Joon Han, Heejun Yang  
-    [Advanced Materials, 2402040 (in press)](https://doi.org/10.1002/adma.202402040) (2024) [arXiv:2312.12889](https://arxiv.org/abs/2312.12889)
+    [Advanced Materials 36, 2402040](https://doi.org/10.1002/adma.202402040) (2024) [arXiv:2312.12889](https://arxiv.org/abs/2312.12889)
 
 9\. "Polymorphic Kondo effects driven by spin lattice coupling in VTe2"  
     Dongyeun Won†, ___Do Hoon Kiem___†, Woohyun Cho, Sang-Hyeok Yang, Young-Hoon Kim, Young-Min Kim, Suyeon Cho, Myung Joon Han, Heejun Yang  
@@ -51,7 +51,7 @@ To see in [Google scholar](https://scholar.google.com/citations?user=u2s6GQwAAAA
 
 6\. "Magnetic Force Response Theory"  
      ___Do Hoon Kiem___, Hyeong Jun Lee, Myung Joon Han  
-     [Journal of the Korean Magnetics Society, Volume 32, Number 4, 31 Aug. 2022, Pages 172-179](https://www.magnetics.or.kr/submission/journal/pages/archives.vm?isrc=_view.jsp&vol=32&no=4&year=2022&month=08&page=172) (2022) (invited review in Korean)
+     [Journal of the Korean Magnetics Society, Volume 32, Number 4, 31 Aug. 2022, Pages 172-179](https://www.magnetics.or.kr/submission/journal/pages/archives.vm?isrc=_view.jsp&vol=32&no=4&year=2022&month=08&page=172) (2022) (Review in Korean)
 
 5\. "Strain engineering and hidden role of magnetism in monolayer VTe2”   
     ___Do Hoon Kiem___, Min Yong Jeong, Hongkee Yoon, Myung Joon Han  

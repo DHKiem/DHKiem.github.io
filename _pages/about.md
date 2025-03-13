@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Postdoctoral Research Associate, Oak Ridge National Laboratory (ORNL)
+## Do Hoon Kiem 
+(DOHOON KIM)  
+Postdoctoral Research Associate, Oak Ridge National Laboratory [(ORNL)](https://www.ornl.gov/staff-profile/dohoon-kim)
 
 Contact: kiem.dohoon[at]gmail.com
 
@@ -19,15 +21,12 @@ My researches focus on the theoretical and computational physics for condensed m
 * Hamiltonians for magnetic systems and quasi-particles
 * Quantum materials, Magnetic systems, Two-dimensional van der Waals materials
 
-Code development 
+Code developments 
 ======
   * Magnetic force linear response theory (MFT): 
       *  [Jx.jl](https://kaist-elst.github.io/Jx.jl/)
       *  [DFTforge.jl](https://github.com/KAIST-ELST/DFTforge.jl) 
   * Magnon package: [SpinMax.jl](https://dhkiem.github.io/SpinMax.jl/) 
-  * Torque magnetometer calculation
-  * optical conductivity in DMFTpack
-
 
 [go to CV](https://dhkiem.github.io/cv)
 =====

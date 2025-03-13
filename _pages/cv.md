@@ -15,6 +15,10 @@ redirect_from:
 Do Hoon Kiem 
 ======
 
+Professional experience
+======
+* Post-doctoral research associate, ORNL, 2025.01-current
+* Post-doctoral researcher, KAIST, 2023.03-2024.12
 
 Education
 ======
@@ -46,7 +50,7 @@ Research Skills
   * optical conductivity in DMFTpack
   
 ### Pragramming languages
-  * Python, Julia, C, C++, Labview
+  * Python, Julia, C/C++
 
 Honors and Awards 
 ======
@@ -64,13 +68,11 @@ Honors and Awards
 
 
 Personal Grants
-=======
+======
 * Venture Research Program for Graduate and PhD Students (2019)
 * Venture Research Program for Graduate and PhD Students (2021)
   * Machine Learning for materials in magnetic fields
 
-
-Work experience
+Academic engaugement
 ======
-* Post-doctoral researcher, KAIST, 2023.03-current
-* Referee/Reviewer: Journal of Korean Physical Society, Current Applied Physics
+* Referee/Reviewer: Journal of Korean Physical Society, Current Applied Physics, Journal of Physical Chemistry

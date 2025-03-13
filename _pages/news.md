@@ -11,7 +11,7 @@ Last update:2024.10.11.
 
 2025
 ====
-**2025 Jan** I started a new postdoc in ORNL.
+**2025 Jan** I started a new postdoc at ORNL.
 
 2024
 =====
@@ -21,7 +21,7 @@ Last update:2024.10.11.
 
 **2024 May** KMS summer meeting talk
 
-**2024 Apr 25.** I give a presentation in KPS spring meeting.
+**2024 Apr 25.**  KPS spring meeting talk
 
 **2023 Feb 21.** DH gives a invited talk in Young Scientist Session at QMS2024+BrainLink.
 
