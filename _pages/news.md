@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Last update:2024.10.11.
+Last update:2025.1.13.
 
 2025
 ====

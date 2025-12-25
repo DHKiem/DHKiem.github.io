@@ -47,6 +47,7 @@ Research Skills
     *  [Jx.jl](https://kaist-elst.github.io/Jx.jl/) 
     *  [DFTforge.jl](https://github.com/KAIST-ELST/DFTforge.jl) 
   * Magnon package: [SpinMax.jl](https://dhkiem.github.io/SpinMax.jl/) 
+  * High-Throughput Computational Framework
   * Torque magnetometer calculation
   * optical conductivity in DMFTpack
   
@@ -76,4 +77,4 @@ Personal Grants
 
 Academic engaugement
 ======
-* Referee/Reviewer: Journal of Korean Physical Society, Current Applied Physics, Journal of Physical Chemistry
+* Referee/Reviewer: Journal of Korean Physical Society, Current Applied Physics, Journal of Physical Chemistry, Physical Review B
