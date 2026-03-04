@@ -20,24 +20,24 @@ To see in [Google scholar](https://scholar.google.com/citations?user=u2s6GQwAAAA
 (†: equal contributions)
 ### 2020 - Now
 16\. "Dominant antiferromagnetic Kitaev interaction in the $J_\textrm{eff}$=(1/2) fcc antiferromagnet Cs2IrCl6"  
-    Wei Tian, Qiang Chen, ___Do Hoon Kiem___, Satoshi Okamoto, Tom Berlijn, Joey Lussier, Christopher R. Wiebe, Haidong Zhou, Kemp W. Plumb, Jungho Kim, Adam A. Aczel
+    Wei Tian, Qiang Chen, ___Do Hoon Kiem___, Satoshi Okamoto, Tom Berlijn, Joey Lussier, Christopher R. Wiebe, Haidong Zhou, Kemp W. Plumb, Jungho Kim, Adam A. Aczel  
     (submitted)
 
 15\. "First-principles-based search for emergent topological spin textures in transition-metal dichalcogenide monolayers"  
-    Yuhyun Cha, ___Do Hoon Kiem___, Myung Joon  
+    Yuhyun Cha, ___Do Hoon Kiem___, Myung Joon Han  
     (submitted)
 
-14\. "Interpretable Graph Neural Networks for Classifying Structure and Magnetism in Delafossite Compounds"  
-    Jovin Ryan Joseph, ___Do Hoon Kiem___, Sinchul Yeom, Mina Yoon  
-    [arXiv:2512.00292](https://arxiv.org/abs/2512.00292) (2025)
-
-13\. "Pseudo tunnel magnetoresistance behaviour in largely twisted thin Fe3GeTe2"  
+14\. "Pseudo tunnel magnetoresistance behaviour in largely twisted thin Fe3GeTe2"  
     Reiji Obata, Haiming Sun, Chihiro Tomatsu, Mioko Kosugi, T. Kikkawa, Kenji Watanabe, Takashi Taniguchi, Kazu Suenaga, ___Do Hoon Kiem___, Myung Joon Han, Eiji Saitoh, Shigeo Maruyama, Kazuhiko Hirakawa, Junji Haruyama  
     (submitted)
 
-12\. "Crucial role of magnetic dipole and anomalous field dependence in NiPS3"  
-    ___Do Hoon Kiem___, Muhammad Nauman, Joonyoung Choi, David Graf, Junghyun Kim, Je-Geun Park, Younjung Jo, Myung Joon Han  
+13\. "Crucial role of magnetic dipole and anomalous field dependence in NiPS3"  
+    ___Do Hoon Kiem___, Muhammad Nauman, Joonyoung Choi, David Graf, Junghyun Kim, Heejun Yang, Je-Geun Park, Younjung Jo, Myung Joon Han  
     (submitted)
+
+12\. "Interpretable Graph Neural Networks for Classifying Structure and Magnetism in Delafossite Compounds"  
+    Jovin Ryan Joseph, ___Do Hoon Kiem___, Sinchul Yeom, Mina Yoon  
+    [arXiv:2512.00292](https://arxiv.org/abs/2512.00292) (2025)    
 
 11\. "Maasive Dirac magnons in the three-dimensional honeycomb magnetic oxide FeTiO3"  
     Jae-Ho Chung, Kwangwoo Shin, Tetsuya R. Yokoo, Daichi Ueta, Masaki Imai, Heung-Sik Kim, ___Do Hoon Kiem___, Myung Joon Han, Shin-itch Shamoto  
