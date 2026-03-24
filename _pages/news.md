@@ -7,7 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
-Last update:2025.1.13.
+Last update:2026.3.24.
+
+2026
+====
+**2026 Mar** APS Global Summit talk & session chair
 
 2025
 ====

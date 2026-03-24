@@ -19,6 +19,10 @@ To see in [Google scholar](https://scholar.google.com/citations?user=u2s6GQwAAAA
 
 (†: equal contributions)
 ### 2020 - Now
+17\. "Above-Room-Temperature Magnetic Ordering in Alkali Metal–Doped MoTe2"  
+    Ibrahim Abdelwahab, A. H. M. Abdul Wasey, Nicholas Lin Quan Cheng, Runrun Xu, Keian Noori, ___Do Hoon Kiem___, Myung Joon Han, Yihan Wu, Fengyuan Xuan, Kian Ping Loh, Su Ying Quek  
+    (submitted)
+
 16\. "Dominant antiferromagnetic Kitaev interaction in the $J_\textrm{eff}$=(1/2) fcc antiferromagnet Cs2IrCl6"  
     Wei Tian, Qiang Chen, ___Do Hoon Kiem___, Satoshi Okamoto, Tom Berlijn, Joey Lussier, Christopher R. Wiebe, Haidong Zhou, Kemp W. Plumb, Jungho Kim, Adam A. Aczel  
     (submitted)
