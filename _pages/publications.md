@@ -19,6 +19,11 @@ To see in [Google scholar](https://scholar.google.com/citations?user=u2s6GQwAAAA
 
 (†: equal contributions)
 ### 2020 - Now
+
+18\. "From RuP3SiO11 to Ideal Geometry: Parallel-Face Octahedra for Kitaev-Dominated Interactions"  
+    ___Do Hoon Kiem___, Satoshi Okamoto, Tom Berlijn  
+    (submitted)
+
 17\. "Above-Room-Temperature Magnetic Ordering in Alkali Metal–Doped MoTe2"  
     Ibrahim Abdelwahab, A. H. M. Abdul Wasey, Nicholas Lin Quan Cheng, Runrun Xu, Keian Noori, ___Do Hoon Kiem___, Myung Joon Han, Yihan Wu, Fengyuan Xuan, Kian Ping Loh, Su Ying Quek  
     (submitted)

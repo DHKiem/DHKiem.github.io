@@ -7,10 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
-Last update:2026.3.24.
+Last update:2026.5.15.
 
 2026
 ====
+**2026 Apr** ORPA symposium talk. 
+
+**2026 Apr** ACerS Spring meeting talk
+
 **2026 Mar** APS Global Summit talk & session chair
 
 2025
