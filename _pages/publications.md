@@ -20,6 +20,10 @@ To see in [Google scholar](https://scholar.google.com/citations?user=u2s6GQwAAAA
 (†: equal contributions)
 ### 2020 - Now
 
+19\. "Topological Magnons on the Ferromagnetic Zigzag Lattice"  
+    Skandan Subramanian, Tom Berlijn, Loucas Lindsay, ___Do Hoon Kiem___, Randy S. FIshman, John W. Villanova  
+    (submitted)
+
 18\. "From RuP3SiO11 to Ideal Geometry: Parallel-Face Octahedra for Kitaev-Dominated Interactions"  
     ___Do Hoon Kiem___, Satoshi Okamoto, Tom Berlijn  
     (submitted)
@@ -48,7 +52,7 @@ To see in [Google scholar](https://scholar.google.com/citations?user=u2s6GQwAAAA
     Jovin Ryan Joseph, ___Do Hoon Kiem___, Sinchul Yeom, Mina Yoon  
     [arXiv:2512.00292](https://arxiv.org/abs/2512.00292) (2025)    
 
-11\. "Maasive Dirac magnons in the three-dimensional honeycomb magnetic oxide FeTiO3"  
+11\. "Massive Dirac magnons in the three-dimensional honeycomb magnetic oxide FeTiO3"  
     Jae-Ho Chung, Kwangwoo Shin, Tetsuya R. Yokoo, Daichi Ueta, Masaki Imai, Heung-Sik Kim, ___Do Hoon Kiem___, Myung Joon Han, Shin-itch Shamoto  
     [Scientific Reports 15, 5978](https://doi.org/10.1038/s41598-025-90478-2) (2025)
 
