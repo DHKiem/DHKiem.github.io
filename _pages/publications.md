@@ -20,6 +20,10 @@ To see in [Google scholar](https://scholar.google.com/citations?user=u2s6GQwAAAA
 (†: equal contributions)
 ### 2020 - Now
 
+20\. "Pressure-Driven Superconductivity and Emergent Topological Phases in MPX3 (M=Fe, Ni; X=S, Se)"  
+    Chulwan Lee, Yoon-Gu Kang, ___Do Hoon Kiem___, Myung Joon Han  
+    (submitted)
+
 19\. "Topological Magnons on the Ferromagnetic Zigzag Lattice"  
     Skandan Subramanian, Tom Berlijn, Loucas Lindsay, ___Do Hoon Kiem___, Randy S. FIshman, John W. Villanova  
     (submitted)
