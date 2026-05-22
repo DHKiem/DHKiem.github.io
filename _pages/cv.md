@@ -47,14 +47,15 @@ Research Skills
     *  [Jx.jl](https://kaist-elst.github.io/Jx.jl/) 
     *  [DFTforge.jl](https://github.com/KAIST-ELST/DFTforge.jl) 
   * Magnon package: [SpinMax.jl](https://dhkiem.github.io/SpinMax.jl/) 
-  * High-Throughput Computational Framework
-  * Torque magnetometer calculation
-  * optical conductivity in DMFTpack
+  * In-house codes:
+    * High-Throughput Computations
+    * Machine Learning Hamiltonian for J
+    * Band unfolding within non-orthogonal basis
+    * Torque magnetometer calculation
+    * optical conductivity in DMFTpack
   
-### Pragramming languages
-  * Python, Julia, C/C++
 
-Honors and Awards 
+Awards 
 ======
 *	Pre-doctoral fellow, 
     *  Department of Physics, KAIST (2021)
@@ -77,4 +78,5 @@ Personal Grants
 
 Academic engaugement
 ======
-* Referee/Reviewer: Journal of Korean Physical Society, Current Applied Physics, Journal of Physical Chemistry, Physical Review B, Physical Review Letters
+* Referee/Reviewer: Journal of Korean Physical Society, Current Applied Physics, Journal of Physical Chemistry, Proceedings A, Physical Review B, Physical Review Letters
+* Session chair at APS Global Summit

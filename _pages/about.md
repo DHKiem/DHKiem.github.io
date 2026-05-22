@@ -10,19 +10,18 @@ redirect_from:
 
 Postdoctoral Research Associate, Oak Ridge National Laboratory [(ORNL)](https://www.ornl.gov/staff-profile/dohoon-kim)
 
-Contact: kiem.dohoon[at]gmail.com
+Contact: kiem.dohoon[at]gmail.com / kimd4[at]ornl.gov
 
 Research Interests
 ======
 My researches focus on the theoretical and computational physics for condensed matters. 
 * Electronic structure calculations (DFT, DFT+DMFT)
-* Modeling of solid states (Wannier, tight-binding)
-* Hamiltonians for magnetic systems and quasi-particles
+* Modeling of solid states (Wannier, tight-binding, magnetic, quasi-particles)
 * Development of first-principles computation methods
 * Quantum materials, Magnetic systems, Two-dimensional van der Waals materials
 * Materials Design
 
-Code developments 
+Code developments
 ======
   * Magnetic force linear response theory (MFT): 
       *  [Jx.jl](https://kaist-elst.github.io/Jx.jl/)
