@@ -14,7 +14,7 @@ Contact: kiem.dohoon[at]gmail.com / kimd4[at]ornl.gov
 
 Research Interests
 ======
-My research focuses on theoretical and computational condensed matter physics. I study a wide range of problems, from modeling and understanding the microscopic origins of real materials to connecting theory with experiments and designing new quantum materials. To achieve this, I employ approaches including first-principles methods, effective modeling, and method development. My main research interests include the following:
+My research focuses on theoretical and computational condensed matter physics. My study ranges from modeling and understanding the microscopic origins of real materials to connecting theory with experiments and designing new quantum materials. To achieve this, I employ approaches including first-principles methods, effective modeling, and method development. My main research interests include the following:
 * Electronic structure calculations (DFT, DFT+DMFT, tight-binding)
 * Modeling of solid states (Wannier, magnetic, quasi-particles)
 * Development of first-principles computation methods

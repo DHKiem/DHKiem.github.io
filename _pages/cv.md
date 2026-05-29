@@ -60,6 +60,7 @@ Awards
 *	Pre-doctoral fellow, 
     *  Department of Physics, KAIST (2021)
 *	Outstanding Presentation Awards  ;
+    *  2026 ORNL-ORPA 14th Research Symposium
     *  2023 KIAS Electronic Structure Calculation Workshop     
     *  2022 Korea Physics Society Fall Meeting
     *  2022 KIAS Electronic Structure Calculation Workshop 

@@ -25,7 +25,7 @@ To see in [Google scholar](https://scholar.google.com/citations?user=u2s6GQwAAAA
     (submitted)
 
 19\. "Topological Magnons on the Ferromagnetic Zigzag Lattice"  
-    Skandan Subramanian, Tom Berlijn, Loucas Lindsay, ___Do Hoon Kiem___, Randy S. FIshman, John W. Villanova  
+    Skandan Subramanian, Tom Berlijn, Loucas Lindsay, ___Do Hoon Kiem___, Randy S. Fishman, John W. Villanova  
     (submitted)
 
 18\. "From RuP3SiO11 to Ideal Geometry: Parallel-Face Octahedra for Kitaev-Dominated Interactions"  
