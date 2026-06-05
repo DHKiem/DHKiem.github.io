@@ -50,7 +50,7 @@ To see in [Google scholar](https://scholar.google.com/citations?user=u2s6GQwAAAA
 
 13\. "First-principles-based search for emergent topological spin textures in transition-metal dichalcogenide monolayers"  
     Yuhyun Cha, ___Do Hoon Kiem___, Myung Joon Han  
-    npj Computational Materials (accepted)
+    [npj Computational Materials](https://doi.org/10.1038/s41524-026-02162-2) (2026)
 
 12\. "Interpretable Graph Neural Networks for Classifying Structure and Magnetism in Delafossite Compounds"  
     Jovin Ryan Joseph, ___Do Hoon Kiem___, Sinchul Yeom, Mina Yoon  
