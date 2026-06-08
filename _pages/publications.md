@@ -24,29 +24,29 @@ To see in [Google scholar](https://scholar.google.com/citations?user=u2s6GQwAAAA
     Chulwan Lee, Yoon-Gu Kang, ___Do Hoon Kiem___, Myung Joon Han  
     (submitted)
 
-19\. "Topological Magnons on the Ferromagnetic Zigzag Lattice"  
-    Skandan Subramanian, Tom Berlijn, Loucas Lindsay, ___Do Hoon Kiem___, Randy S. Fishman, John W. Villanova  
-    (submitted)
-
-18\. "From RuP3SiO11 to Ideal Geometry: Parallel-Face Octahedra for Kitaev-Dominated Interactions"  
+19\. "From RuP3SiO11 to Ideal Geometry: Parallel-Face Octahedra for Kitaev-Dominated Interactions"  
     ___Do Hoon Kiem___, Satoshi Okamoto, Tom Berlijn  
     (submitted)
 
-17\. "Above-Room-Temperature Magnetic Ordering in Alkali Metal–Doped MoTe2"  
+18\. "Above-Room-Temperature Magnetic Ordering in Alkali Metal–Doped MoTe2"  
     Ibrahim Abdelwahab, A. H. M. Abdul Wasey, Nicholas Lin Quan Cheng, Runrun Xu, Keian Noori, ___Do Hoon Kiem___, Myung Joon Han, Yihan Wu, Fengyuan Xuan, Kian Ping Loh, Su Ying Quek  
     (submitted)
 
-16\. "Dominant antiferromagnetic Kitaev interaction in the $J_\textrm{eff}$=(1/2) fcc antiferromagnet Cs2IrCl6"  
+17\. "Dominant antiferromagnetic Kitaev interaction in the $J_\textrm{eff}$=(1/2) fcc antiferromagnet Cs2IrCl6"  
     Wei Tian, Qiang Chen, ___Do Hoon Kiem___, Satoshi Okamoto, Tom Berlijn, Joey Lussier, Christopher R. Wiebe, Haidong Zhou, Kemp W. Plumb, Jungho Kim, Adam A. Aczel  
     (submitted)
 
-15\. "Pseudo tunnel magnetoresistance behaviour in largely twisted thin Fe3GeTe2"  
+16\. "Pseudo tunnel magnetoresistance behaviour in largely twisted thin Fe3GeTe2"  
     Reiji Obata, Haiming Sun, Chihiro Tomatsu, Mioko Kosugi, T. Kikkawa, Kenji Watanabe, Takashi Taniguchi, Kazu Suenaga, ___Do Hoon Kiem___, Myung Joon Han, Eiji Saitoh, Shigeo Maruyama, Kazuhiko Hirakawa, Junji Haruyama  
     (submitted)
 
-14\. "Crucial role of magnetic dipole and anomalous field dependence in NiPS3"  
+15\. "Crucial role of magnetic dipole and anomalous field dependence in NiPS3"  
     ___Do Hoon Kiem___, Muhammad Nauman, Joonyoung Choi, David Graf, Junghyun Kim, Heejun Yang, Je-Geun Park, Younjung Jo, Myung Joon Han  
     (submitted)
+
+14\. "Topological Magnons on the Ferromagnetic Zigzag Lattice"  
+    Skandan Subramanian, Tom Berlijn, Loucas Lindsay, ___Do Hoon Kiem___, Randy S. Fishman, John W. Villanova  
+    Physical Review B (accepted)    
 
 13\. "First-principles-based search for emergent topological spin textures in transition-metal dichalcogenide monolayers"  
     Yuhyun Cha, ___Do Hoon Kiem___, Myung Joon Han  
@@ -100,5 +100,3 @@ To see in [Google scholar](https://scholar.google.com/citations?user=u2s6GQwAAAA
 1\.  "First-principles-based calculation of branching ratio for 5d, 4d, and 3d transition metal systems"   
     ___Do Hoon Kiem___, Jae-Hoon Sim, Hongkee Yoon, and Myung Joon Han  
     [Journal of Physics: Condensed Matter 32, 245501](https://doi.org/10.1088/1361-648X/ab786f) (2020)
-
-
