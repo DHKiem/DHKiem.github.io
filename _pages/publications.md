@@ -45,8 +45,8 @@ To see in [Google scholar](https://scholar.google.com/citations?user=u2s6GQwAAAA
     (submitted)
 
 14\. "Topological Magnons on the Ferromagnetic Zigzag Lattice"  
-    Skandan Subramanian, Tom Berlijn, Loucas Lindsay, ___Do Hoon Kiem___, Randy S. Fishman, John W. Villanova  
-    Physical Review B (accepted)    
+    Skandan Subramanian, Tom Berlijn, Lucas Lindsay, ___Do Hoon Kiem___, Randy S. Fishman, John W. Villanova  
+    [Physical Review B](https://doi.org/10.1103/6p3f-l13x) (accepted)    
 
 13\. "First-principles-based search for emergent topological spin textures in transition-metal dichalcogenide monolayers"  
     Yuhyun Cha, ___Do Hoon Kiem___, Myung Joon Han  
