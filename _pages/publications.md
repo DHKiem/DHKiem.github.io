@@ -20,6 +20,10 @@ To see in [Google scholar](https://scholar.google.com/citations?user=u2s6GQwAAAA
 (†: equal contributions)
 ### 2020 - Now
 
+21\. "First-Principles and Interpretable Machine-Learning-Guided Design Rules for Frustrated Magnetic Delafossites"  
+    ___Do Hoon Kiem___, Sinchul Yeom, Kayahan Saritas, Fernando A. Reboredo, Mina Yoon  
+    (submitted)
+
 20\. "Pressure-Driven Superconductivity and Emergent Topological Phases in MPX3 (M=Fe, Ni; X=S, Se)"  
     Chulwan Lee, Yoon-Gu Kang, ___Do Hoon Kiem___, Myung Joon Han  
     (submitted)
