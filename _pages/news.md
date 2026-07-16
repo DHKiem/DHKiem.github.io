@@ -11,7 +11,7 @@ Last update:2026.5.15.
 
 2026
 ====
-**2026 Apr** ORPA symposium talk. 
+**2026 Apr** ORPA symposium talk & presentation award
 
 **2026 Apr** ACerS Spring meeting talk
 
