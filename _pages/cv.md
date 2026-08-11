@@ -33,7 +33,7 @@ Publications
 See [Publications](https://dhkiem.github.io/publications)
 
 
-Research Skills 
+Computational Expertise
 ======
 ### First-principle density functional theory calculations
   * ___DFT package___: openMX, VASP, WIEN2k
@@ -42,14 +42,14 @@ Research Skills
 ### DFT+Dynamical mean-field theory
   * Rutgers eDMFT, DMFTpack
   
-### Code developments
+### Scientific software development
   * Magnetic force linear response theory (MFT) for exchange interactions
     *  [Jx.jl](https://kaist-elst.github.io/Jx.jl/) 
     *  [DFTforge.jl](https://github.com/KAIST-ELST/DFTforge.jl) 
   * Magnon package: [SpinMax.jl](https://dhkiem.github.io/SpinMax.jl/) 
   * In-house codes:
-    * High-Throughput Computations
-    * Machine Learning Hamiltonian for J
+    * High-Throughput Computation workflow
+    * Machine Learning Hamiltonian for exchange interactions
     * Band unfolding within non-orthogonal basis
     * Torque magnetometer calculation
     * optical conductivity in DMFTpack
