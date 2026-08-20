@@ -35,14 +35,12 @@ See [Publications](https://dhkiem.github.io/publications)
 
 Computational Expertise
 ======
-### First-principle density functional theory calculations
-  * ___DFT package___: openMX, VASP, WIEN2k
+### First-principles electronic structure calculations (DFT, DFT+DMFT, tight-binding)
+  * openMX, VASP, WIEN2k
   * Wannier90, LOBSTER, DFTforge.jl, Jx, BoltzTrap, Phonopy, etc  
-  
-### DFT+Dynamical mean-field theory
   * Rutgers eDMFT, DMFTpack
   
-### Scientific software development
+### Computational method developments 
   * Magnetic force linear response theory (MFT) for exchange interactions
     *  [Jx.jl](https://kaist-elst.github.io/Jx.jl/) 
     *  [DFTforge.jl](https://github.com/KAIST-ELST/DFTforge.jl) 

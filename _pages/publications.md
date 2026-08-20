@@ -46,7 +46,7 @@ To see in [Google scholar](https://scholar.google.com/citations?user=u2s6GQwAAAA
 
 15\. "Crucial role of magnetic dipole and anomalous field dependence in NiPS3"  
     ___Do Hoon Kiem___, Muhammad Nauman, Joonyoung Choi, David Graf, Junghyun Kim, Heejun Yang, Je-Geun Park, Younjung Jo, Myung Joon Han  
-    (submitted)
+    (Accepted in Small)
 
 14\. "Topological Magnons on the Ferromagnetic Zigzag Lattice"  
     Skandan Subramanian, Tom Berlijn, Lucas Lindsay, ___Do Hoon Kiem___, Randy S. Fishman, John W. Villanova  
