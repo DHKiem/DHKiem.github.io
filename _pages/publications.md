@@ -20,6 +20,10 @@ To see in [Google scholar](https://scholar.google.com/citations?user=u2s6GQwAAAA
 (†: equal contributions)
 ### 2020 - Now
 
+22\. "Quantum Spin Singlet Ground State with Large Excitation Gap in the S = 3/2 quasi-1D van der Waals materials MoX3 (X = I, Br)"  
+    Jordan Teeter, Topojit Debnath, Harshil Goyal, Md. Sabbir Hossen Bijoy, Maedeh Taheri, Nicholas R. Sesing, Clayton Mantz, Josemaria Garcia, Mathew B. Stone, Colin Sarkis, ___Do Hoon Kiem___, Sohee Kwon, Mina Yoon, Fariborz Kargar, Kirill Shtengel, Tina T. Salguero, Alexander A. Balandin, and Roger K. Lake  
+    (submitted)
+
 21\. "First-Principles and Interpretable Machine-Learning-Guided Design Rules for Frustrated Magnetic Delafossites"  
     ___Do Hoon Kiem___, Sinchul Yeom, Kayahan Saritas, Fernando A. Reboredo, Mina Yoon  
     (submitted)
@@ -46,7 +50,7 @@ To see in [Google scholar](https://scholar.google.com/citations?user=u2s6GQwAAAA
 
 15\. "Crucial role of magnetic dipole and anomalous field dependence in NiPS3"  
     ___Do Hoon Kiem___, Muhammad Nauman, Joonyoung Choi, David Graf, Junghyun Kim, Heejun Yang, Je-Geun Park, Younjung Jo, Myung Joon Han  
-    (Accepted in Small)
+    Small (Accepted)
 
 14\. "Topological Magnons on the Ferromagnetic Zigzag Lattice"  
     Skandan Subramanian, Tom Berlijn, Lucas Lindsay, ___Do Hoon Kiem___, Randy S. Fishman, John W. Villanova  
@@ -54,7 +58,7 @@ To see in [Google scholar](https://scholar.google.com/citations?user=u2s6GQwAAAA
 
 13\. "First-principles-based search for emergent topological spin textures in transition-metal dichalcogenide monolayers"  
     Yuhyun Cha, ___Do Hoon Kiem___, Myung Joon Han  
-    [npj Computational Materials](https://doi.org/10.1038/s41524-026-02162-2) (2026)
+    [npj Computational Materials 12, 292](https://doi.org/10.1038/s41524-026-02162-2) (2026)
 
 12\. "Interpretable Graph Neural Networks for Classifying Structure and Magnetism in Delafossite Compounds"  
     Jovin Ryan Joseph, ___Do Hoon Kiem___, Sinchul Yeom, Mina Yoon  
