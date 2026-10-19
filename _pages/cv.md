@@ -32,7 +32,7 @@ Publications
 ======
 See [Publications](https://dhkiem.github.io/publications)
 
-
+<!--
 Computational Expertise
 ======
 ### First-principles electronic structure calculations (DFT, DFT+DMFT, tight-binding)
@@ -51,7 +51,7 @@ Computational Expertise
     * Band unfolding within non-orthogonal basis
     * Torque magnetometer calculation
     * optical conductivity in DMFTpack
-  
+-->
 
 Awards 
 ======
@@ -68,7 +68,7 @@ Awards
     *  2019 The 11th Brain Korea (BK) 21+ Young Physicists Workshop
     *  2018 Korea Physics Society Spring Meeting
 
-
+<!--
 Personal Grants
 ======
 * Venture Research Program for Graduate and PhD Students (2019)
@@ -79,3 +79,5 @@ Academic engaugement
 ======
 * Referee/Reviewer: Journal of Korean Physical Society, Current Applied Physics, Journal of Physical Chemistry, Proceedings A, Physical Review B, Physical Review Letters
 * Session chair at APS Global Summit
+
+-->
