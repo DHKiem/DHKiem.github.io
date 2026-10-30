@@ -47,7 +47,7 @@ To see in [Google scholar](https://scholar.google.com/citations?user=u2s6GQwAAAA
 
 16\. "Quantum Spin Singlet Ground State with Large Excitation Gap in the S = 3/2 quasi-1D van der Waals materials MoX3 (X = I, Br)"  
     Jordan Teeter, Topojit Debnath, Harshil Goyal, Md. Sabbir Hossen Bijoy, Maedeh Taheri, Nicholas R. Sesing, Clayton Mantz, Josemaria Garcia, Mathew B. Stone, Colin Sarkis, ___Do Hoon Kiem___, Sohee Kwon, Mina Yoon, Fariborz Kargar, Kirill Shtengel, Tina T. Salguero, Alexander A. Balandin, and Roger K. Lake  
-    (Aceetped in Physical Review B)    
+    (Acceptped in Physical Review B)    
 
 15\. "Crucial role of magnetic dipole and anomalous field dependence in NiPS3"  
     ___Do Hoon Kiem___, Muhammad Nauman, Joonyoung Choi, David Graf, Junghyun Kim, Heejun Yang, Je-Geun Park, Younjung Jo, Myung Joon Han  
