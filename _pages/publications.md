@@ -38,7 +38,7 @@ To see in [Google scholar](https://scholar.google.com/citations?user=u2s6GQwAAAA
     (submitted)
 
 18\. "Dominant antiferromagnetic Kitaev interaction in the $J_\textrm{eff}$=(1/2) fcc antiferromagnet Cs2IrCl6"  
-    Wei Tian, Qiang Chen, ___Do Hoon Kiem___, Satoshi Okamoto, Tom Berlijn, Joey Lussier, Christopher R. Wiebe, Haidong Zhou, Kemp W. Plumb, Jungho Kim, Adam A. Aczel  
+    Wei Tian, ___Do Hoon Kiem___†, Qiang Chen, Satoshi Okamoto, Tom Berlijn, Joey Lussier, Christopher R. Wiebe, Haidong Zhou, Kemp W. Plumb, Jungho Kim, Adam A. Aczel  
     (submitted)
 
 17\. "Pseudo tunnel magnetoresistance behaviour in largely twisted thin Fe3GeTe2"  
