@@ -28,6 +28,7 @@ Software developments
       *  [Jx.jl](https://kaist-elst.github.io/Jx.jl/)
       *  [DFTforge.jl](https://github.com/KAIST-ELST/DFTforge.jl) 
   * Magnon package: [SpinMax.jl](https://dhkiem.github.io/SpinMax.jl/) 
+  * [RenormHNnet](https://github.com/DHKiem/RenormHNet)
 
 [go to CV](https://dhkiem.github.io/cv)
 =====
